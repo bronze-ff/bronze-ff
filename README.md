@@ -60,12 +60,24 @@ Estou em um momento de transição de carreira, unindo minha bagagem sólida em 
 
 <div align="center">
 
-### 🔹 dev-environment
-Ambiente completo de desenvolvimento com scripts, configurações, aliases e setup profissional para produtividade.
-
-<br>
-
-[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bronze-ff&repo=dev-environment&theme=tokyonight&hide_border=true)](https://github.com/bronze-ff/dev-environment)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔹 dev-environment</h3>
+      <p>Ambiente completo de desenvolvimento com scripts, configurações, aliases e produtividade.</p>
+      <a href="https://github.com/bronze-ff/dev-environment">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bronze-ff&repo=dev-environment&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔹 sql-scripts</h3>
+      <p>Coleção de scripts SQL úteis para automações, consultas avançadas e rotinas Oracle/Winthor.</p>
+      <a href="https://github.com/bronze-ff/sql-scripts">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bronze-ff&repo=sql-scripts&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
