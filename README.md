@@ -47,8 +47,6 @@ garantindo eficiência operacional e integridade de dados para tomadas de decis�
 
 ## 💼 Sobre mim e Objetivos
 
-Estou em um momento de transição de carreira, unindo minha bagagem sólida em regras de negócio e banco de dados com a engenharia de software moderna.
-
 - 🎓 **Formação:** Cursando o 5º semestre de Análise e Desenvolvimento de Sistemas.
 - 🎯 **Foco Atual:** Evoluir do suporte/análise para o **Desenvolvimento Backend e Fullstack**.
 - 🧠 **Estudos:** Aprofundando conhecimentos em **Node.js, TypeScript e Python** para criar aplicações escaláveis.
