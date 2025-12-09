@@ -102,12 +102,6 @@ garantindo eficiência operacional e integridade de dados para tomadas de decis�
 
 ---
 
-## ✨ Frase que me representa
-
-> _“Pequenas evoluções diárias constroem grandes resultados.”_
-
----
-
 <div align="center">
   
 ### Obrigado por visitar meu perfil ⚡  
