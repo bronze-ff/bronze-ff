@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" width="100%" alt="Banner Filippe Faria" />
+  <img src="./banner.svg" width="100%" alt="Banner Filippe Faria" />
 </div>
 
 <div align="center">
@@ -27,17 +27,15 @@
 
 Analista de TI movido a café e temas dark minimalistas. De dia, mergulho em **Oracle PL/SQL e no ecossistema Winthor**, mantendo dados íntegros e operações rodando. De noite, escrevo **Node.js, TypeScript e Python** para automatizar tudo que me faça sair do trabalho manual.
 
-Quando não estou codando, provavelmente estou de *bronze* no CS2 — o nick não mente.
-
 - 🎓 5º semestre de Análise e Desenvolvimento de Sistemas
 - 🎯 Migrando de sustentação para **Backend / Fullstack**
 - ⚙️ Construindo automações que evitam que os problemas aconteçam
-- 🎮 CS2 nas horas vagas (rank emocional: Global. Rank real: o nick diz tudo)
+- 🧠 Estudando arquitetura de aplicações escaláveis
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="anime coding" />
+<img src="./ascii-sphere.svg" width="100%" alt="ascii art" />
 
 </td>
 </tr>
@@ -126,15 +124,6 @@ Quando não estou codando, provavelmente estou de *bronze* no CS2 — o nick nã
 <br>
 
 <div align="center">
-
----
-
-<em>「 Code is never finished. It only becomes slightly less terrible over time. 」</em>
-
-<br><br>
-
-<em>「 Cada commit que eu faço é basicamente um pequeno pedido de desculpas ao meu eu do futuro. <br>
-Um dia vou voltar nesse código, olhar o espaguete que escrevi, e me perguntar quem me deixou chegar perto de um teclado. 」</em>
 
 ---
 
