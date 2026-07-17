@@ -35,7 +35,7 @@ Analista de TI movido a café e temas dark minimalistas. De dia, mergulho em **O
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="./ascii-sphere.svg" width="100%" alt="ascii art" />
+<img src="./ascii-anime.svg" width="100%" alt="ascii anime art" />
 
 </td>
 </tr>
